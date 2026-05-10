@@ -1,5 +1,4 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
-
+<img src="banner_github.png" alt="GitHub Banner" width="100%" /> 
 <div align="center">
 <h1>👋Hi I am Tharindu Thilakshana</h1>
 </div>
@@ -37,6 +36,8 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=TharinduThilakshana0thildezo&icon=0&color=0)](https://visitcount.itsvg.in)
+
+# SS
 
 # ![CodingComputerCodingGIF](https://github.com/user-attachments/assets/d7b0b8dd-6573-426c-b154-dee6486bff6c)
 
